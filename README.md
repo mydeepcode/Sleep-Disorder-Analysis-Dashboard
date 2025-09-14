@@ -76,7 +76,8 @@ This project aims to:
 🔍 **Full Dashboard Preview**
 Interactive Power BI dashboard with **dark theme + neon highlights**, designed for visual clarity during presentations.
 
-🖼️ *\[Insert Screenshot Here]*
+🖼️ **Here is the link:**
+[View Full Dashboard Image](https://github.com/mydeepcode/Sleep-Disorder-Analysis-Dashboard/blob/main/Sleep%20Disorder%20Analysis%20Dashboard.png)
 
 ## 📎 Extras
 
